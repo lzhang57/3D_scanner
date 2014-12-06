@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 3D_SCAN - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ZLK\AppData\Local\Temp\RSP7C76.tmp" with contents
+[
+Pcomm.lib cxcore.lib cv.lib MVDAILT.lib Raw2Rgb.lib highgui.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/3D_SCAN.pdb" /debug /machine:I386 /out:"Debug/3D_SCAN.exe" /pdbtype:sept 
+".\Debug\3D_SCAN.obj"
+".\Debug\3D_SCANDoc.obj"
+".\Debug\3D_SCANView.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\3D_SCAN.res"
+]
+Creating command line "link.exe @C:\Users\ZLK\AppData\Local\Temp\RSP7C76.tmp"
+<h3>Output Window</h3>
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/3D_SCAN.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\3D_SCAN.sbr" ".\Debug\3D_SCANDoc.sbr" ".\Debug\3D_SCANView.sbr" ".\Debug\MainFrm.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+3D_SCAN.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
